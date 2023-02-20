@@ -1,2 +1,9 @@
-# sorting_algorithms
-Sorting algorithms &amp; Big O Repo
+#Sorting algorithms Big O Notation
+
+## Learning Objectives:bulb:
+What you should learn from this project:
+
+* At least four different sorting algorithms
+* What is the Big O notation, and how to evaluate the time complexity of an algorithm
+* How to select the best sorting algorithm for a given input
+* What is a stable sorting algorithm
